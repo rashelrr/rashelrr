@@ -1,4 +1,4 @@
-### Hi 👋 I'm Rashel!
+### Hi 👋 I'm Rashel! ###
 
 ## I'm a CS graduate from Columbia University ##
 
