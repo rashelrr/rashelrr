@@ -7,7 +7,7 @@
 
 ### Languages and Tools: ###
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:10px">
 <img src="https://github.com/rashelrr/rashelrr/assets/66976912/fb70e524-ed62-4281-af62-f105375693ff" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/rashelrr/rashelrr/assets/66976912/e4f9365a-c9e6-4cb0-923c-e25cdce8f1b2" alt="C Language" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
