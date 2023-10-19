@@ -1,6 +1,11 @@
-### Hi there 👋 I'm Rashel!
+### Hi 👋 I'm Rashel!
 
-- Languages and Tools: 
+# Connect With Me: #
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/rashelrojas/]
+
+
+# Languages and Tools: #
 (icons)
 
 
