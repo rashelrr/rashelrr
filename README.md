@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Rashel!
+
+- Languages and Tools: 
+(icons)
+
 
 <!--
 **rashelrr/rashelrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
