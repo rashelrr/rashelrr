@@ -25,7 +25,7 @@
 <br clear="">
 <br>
 
-### GitHub Stats: ###
+### :trophy: My GitHub Stats: ###
 <div>
 <a href="https://github.com/rashelrr/rashelrr">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rashelrr&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=true&include_all_commits=true" />
