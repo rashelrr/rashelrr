@@ -4,6 +4,7 @@
 
 ### Connect With Me: ###
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashelrojas)
+<br>
 
 ### Languages and Tools: ###
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="30" style="padding-right:10px">
@@ -21,9 +22,13 @@
 <img align="left" src="https://github.com/rashelrr/rashelrr/assets/66976912/22580354-9fb2-4535-829b-4e56f7c9ac75" alt="Docker" height="30" style="padding-right:10px">  
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="30" style="padding-right:10px">
 
+<br clear="">
+<br>
 
 ### GitHub Stats: ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashelrr&theme=tokyonight&langs_count=3&hide=HTML,CSS)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashelrr&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashelrr&theme=omni&langs_count=3&hide=HTML,CSS)
 
 
 <!--
