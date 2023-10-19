@@ -4,11 +4,11 @@
 - 🎵 In my free time, I enjoy weight training, crafting, concerts, and dancing
 - ⚡ Fun fact: I can squat 100lbs 💪
 
-### Connect With Me:
+## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashelrojas)
 <br>
 
-### Languages and Tools:
+## Languages and Tools:
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="30" style="padding-right:10px">
 <img align="left" src="https://github.com/rashelrr/rashelrr/assets/66976912/fb70e524-ed62-4281-af62-f105375693ff" alt="Java" height="30" style="padding-right:10px">
 <img align="left" src="https://github.com/rashelrr/rashelrr/assets/66976912/e4f9365a-c9e6-4cb0-923c-e25cdce8f1b2" alt="C Language" height="30" style="padding-right:10px">
@@ -27,7 +27,7 @@
 <br clear="">
 <br>
 
-### My GitHub Stats:
+## My GitHub Stats:
 <div>
 <a href="https://github.com/rashelrr/rashelrr">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rashelrr&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=true&include_all_commits=true" />
