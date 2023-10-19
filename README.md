@@ -26,10 +26,14 @@
 <br>
 
 ### GitHub Stats: ###
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rashelrr&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashelrr&theme=omni&langs_count=3&hide=HTML,CSS)
-
+<div>
+<a href="https://github.com/rashelrr/rashelrr">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rashelrr&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/rashelrr/rashelrr">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashelrr&theme=omni&langs_count=3&hide=HTML,CSS" />
+</a>
+</div>
 
 <!--
 **rashelrr/rashelrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
