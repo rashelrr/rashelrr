@@ -1,6 +1,8 @@
 # Hi 👋 I'm Rashel!
-
-## I'm a CS graduate from Columbia University
+- 🎓 I'm a CS graduate from Columbia University's School of Engineering
+- 🔭 I’m currently working on my [personal website][website]
+- 🎭 In my free time, I enjoy weight training, crafting, concerts, and dancing
+- ⚡ Fun fact: I can squat 100lbs 💪
 
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashelrojas)
@@ -34,6 +36,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashelrr&theme=omni&langs_count=3&hide=HTML,CSS" />
 </a>
 </div>
+
+[website]: https://github.com/rashelrr/mlh-portfolio-project
 
 <!--
 **rashelrr/rashelrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
