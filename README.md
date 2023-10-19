@@ -17,7 +17,9 @@
 <img src="https://github.com/rashelrr/rashelrr/assets/66976912/5b047f3f-d541-468f-bf8a-f7fde523c815" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/rashelrr/rashelrr/assets/66976912/637552ab-849e-483b-bd80-c661c6228f8c" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/rashelrr/rashelrr/assets/66976912/e7c273f2-ba6b-4219-bc12-4116cc43f0fb" alt="Go language" height="40" style="vertical-align:top; margin:4px">
-
+<img src="https://github.com/rashelrr/rashelrr/assets/66976912/079b1644-3666-4f12-a556-6e450b73526a" alt="GitHub" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/rashelrr/rashelrr/assets/66976912/d2af89a1-8202-43fe-becb-6a9142cedc40" alt="Postman" height="40" style="vertical-align:top; margin:4px">  
+<img src="https://github.com/rashelrr/rashelrr/assets/66976912/22580354-9fb2-4535-829b-4e56f7c9ac75" alt="Docker" height="40" style="vertical-align:top; margin:4px">  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
