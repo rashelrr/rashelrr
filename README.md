@@ -30,7 +30,7 @@
 ### My GitHub Stats:
 <div>
 <a href="https://github.com/rashelrr/rashelrr">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rashelrr&include_all_commits=true&show_icons=true&theme=tokyonight&hide=issues,contribs"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rashelrr&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=true"/>
 </a>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&include_all_commits=true)-->
