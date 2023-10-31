@@ -1,5 +1,5 @@
 # Hi 👋 I'm Rashel!
-- 🎓 I'm a CS major at Columbia University's School of Engineering
+- 🎓 I'm a CS student at Columbia University's School of Engineering
 - 🔭 I’m currently working on my [personal website][website]
 - 🎵 In my free time, I enjoy weight training, crafting, concerts, and dancing
 - ⚡ Fun fact: I can squat 100lbs 💪
