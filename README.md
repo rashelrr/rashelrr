@@ -1,11 +1,11 @@
 # Hi 👋 I'm Rashel!
-- 🎓 I'm a CS student at Columbia University's School of Engineering
+- 🎓 I'm a CS graduate from Columbia University's School of Engineering
 - 🔭 I’m currently working on my [personal website][website]
 - 🎵 In my free time, I enjoy weight training, crafting, concerts, and dancing
 - ⚡ Fun fact: I can squat 100lbs 💪
 
 ### Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashelrojas/)
 <br>
 
 ### Languages and Tools:
