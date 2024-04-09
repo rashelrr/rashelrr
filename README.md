@@ -1,6 +1,7 @@
 # Hi 👋 I'm Rashel!
-- 🎓 I'm a CS graduate from Columbia University's School of Engineering
-- 🔭 I recently finished working on my [personal website][website]
+- 🎓 I graduated with a Bachelors in Computer Science from Columbia University's School of Engineering
+- 🌱 I'm currently working on a [project][spotify project] using the Spotify API to automatically generate a playlist for parties based on top tracks of collaborators!
+- 🔭 Here is my [personal website][website]
 - 🎵 In my free time, I enjoy coding, strength training, and taking dance classes
 - ⚡ Fun fact: I can squat 100lbs 💪
 
@@ -41,6 +42,7 @@
 </a>
 </div>
 
+[spotify project]: https://github.com/rashelrr/spotify-party-playlist
 [website]: https://github.com/rashelrr/rashelrr.github.io 
 [ghw]: https://ghw.mlh.io/events/beginners-week2 
 
