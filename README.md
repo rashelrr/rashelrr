@@ -1,6 +1,5 @@
 # Hi 👋 I'm Rashel!
 - 🎓 I graduated with a Bachelors in Computer Science from Columbia University's School of Engineering
-- 🌱 I'm currently working on a project that uses the Spotify API to automatically generate a playlist for parties based on the top tracks of collaborators! View my project [here][spotify project]
 - 🔭 Here is my [personal website][website]
 - 🎵 In my free time, I enjoy coding, strength training, and taking dance classes
 - ⚡ Fun fact: I can squat 105lbs 💪
