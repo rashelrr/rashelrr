@@ -1,7 +1,7 @@
 # Hi 👋 I'm Rashel!
 - 🎓 I graduated with a Bachelors in Computer Science from Columbia University's School of Engineering
 - 🔭 Here is my [personal website][website]
-- 🎵 In my free time, I enjoy coding, strength training, and taking dance classes
+- 🎵 In my free time, I enjoy coding, strength training, and taking samba classes
 - ⚡ Fun fact: I can squat 105lbs 💪
 
 ### Connect With Me:
